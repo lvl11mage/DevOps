@@ -1,2 +1,2 @@
 # DevOps
-project zalupa.sh
+project zalupa.sh lets get it!
