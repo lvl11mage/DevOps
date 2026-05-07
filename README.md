@@ -1,2 +1,2 @@
 # DevOps
-project zalupa.ssh
+project zalupa.sh
